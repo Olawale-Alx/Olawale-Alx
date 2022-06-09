@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Development and Cybersecurity
 - 🌱 I’m currently learning NodeJS, Flask and Databases
 - 💞️ I’m looking to collaborate on beginner friendly open-source projects
-- 📫 How to reach me olaleyeolawale2020@outlook.com
+- 📫 How to reach me: olaleyeolawale2020@outlook.com
 
 <!---
 Olawale-Alx/Olawale-Alx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
